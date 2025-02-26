@@ -1,10 +1,10 @@
 # ИИ-ассистент для риелтора в виде телеграм бота
 
 Ссылка на телеграм бот https://t.me/I_Real_tor_bot
-
-https://github.com/EUBOG/AI_assistent/blob/main/Скрин1.jpg
-https://github.com/EUBOG/AI_assistent/blob/main/Скрин2.jpg
-https://github.com/EUBOG/AI_assistent/blob/main/Скрин3.jpg
+Скрины: [Скрины:]
+(https://github.com/EUBOG/AI_assistent/blob/main/Скрин1.jpg)
+(https://github.com/EUBOG/AI_assistent/blob/main/Скрин2.jpg)
+(https://github.com/EUBOG/AI_assistent/blob/main/Скрин3.jpg)
 
 ## Описание проекта
 "ИИ-ассистент для риелтора" — это инновационный инструмент, разработанный для автоматизации и оптимизации процессов взаимодействия с клиентами в сфере недвижимости. Ассистент способен вести осмысленные диалоги, отвечать на вопросы клиента, основываясь на базе знаний, и записывать его на встречу, автоматически добавляя событие в Google Календарь.
