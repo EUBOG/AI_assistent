@@ -1,9 +1,9 @@
 # ИИ-ассистент для риелтора в виде телеграм бота
 
 Ссылка на телеграм бот https://t.me/I_Real_tor_bot
-Скрины: [Скрины:]
-(https://github.com/EUBOG/AI_assistent/blob/main/Скрин1.jpg)
-(https://github.com/EUBOG/AI_assistent/blob/main/Скрин2.jpg)
+Скрины:
+(https://github.com/EUBOG/AI_assistent/blob/main/Скрин1.jpg);
+(https://github.com/EUBOG/AI_assistent/blob/main/Скрин2.jpg);
 (https://github.com/EUBOG/AI_assistent/blob/main/Скрин3.jpg)
 
 ## Описание проекта
